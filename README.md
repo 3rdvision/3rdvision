@@ -1,2 +1,2 @@
 ## Random Quote
-![](https://quotes-github-readme.vercel.app/api?theme=radical)
+![](https://quotes-github-readme.vercel.app/api?theme=github_dark)
